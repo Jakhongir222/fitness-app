@@ -4,7 +4,8 @@ import { ThursdayCart } from './carts/ThursdayCart'
 export const Thursday = () => {
   return (
     <div>
-      <h2>30 hour cardio</h2>
+      <h2>30 minutes Rowing</h2>
+      <img src='https://media3.giphy.com/media/1iRfEyZwpXEe6V4Pem/giphy.gif?cid=6c09b952dx3tq50fon7p7ognq9futh0gs74siptppnvqb8a4&rid=giphy.gif&ct=s' alt='Rowing'/>
       <h2>Back and Biceps</h2>
       <ThursdayCart/>
       <h2>Cool-Down and Stretch</h2>
@@ -19,3 +20,4 @@ export const Thursday = () => {
     </div>
   )
 }
+//here another gif with white background https://media3.giphy.com/media/1iRfEyZwpXEe6V4Pem/giphy.gif?cid=6c09b952dx3tq50fon7p7ognq9futh0gs74siptppnvqb8a4&rid=giphy.gif&ct=s

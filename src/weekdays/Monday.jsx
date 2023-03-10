@@ -4,7 +4,8 @@ import { MondayCart } from './carts/MondayCart'
 export const Monday = () => {
   return (
     <div>
-      <h2>30 hour cardio</h2>
+      <h2>30 minute running</h2>
+      <img src="https://cdn.dribbble.com/users/1418907/screenshots/5745859/tredmil-for-post.gif" alt="Man running"/>
       <h2>Chest and triceps</h2>
       <MondayCart/>
       <h2>Cool-Down and Stretch</h2>
