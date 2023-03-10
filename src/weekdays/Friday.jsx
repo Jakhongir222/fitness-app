@@ -1,10 +1,12 @@
 import React from 'react'
+import { FridayCart } from './carts/FridayCart'
 
 export const Friday = () => {
   return (
     <div>
       <h2>30 hour cardio</h2>
       <h2>Chest and Triceps</h2>
+      <FridayCart/>
       <h2>Cool-Down and Stretch</h2>
       <iframe 
         width="560" 
