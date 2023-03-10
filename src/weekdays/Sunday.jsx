@@ -9,11 +9,12 @@ export const Sunday = () => {
         <iframe 
         width="560" 
         height="315" 
-        src="https://www.youtube.com/watch?v=oeE-YDcAQfA" 
-        title="Monday Video"
+        src="https://www.youtube.com/embed/oeE-YDcAQfA" 
+        title="Sunday Video"
         allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
-        allowfullscreen
+        allowFullScreen
       ></iframe>
     </div>
   )
 }
+

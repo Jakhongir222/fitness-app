@@ -11,8 +11,8 @@ export const Monday = () => {
         src="https://www.youtube.com/embed/DYD6vr-wfjg" 
         title="Monday Video"
         allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
-        allowfullscreen
-      ></iframe>
+        allowFullScreen
+              ></iframe>
     </div>
   )
 }
