@@ -10,12 +10,17 @@ import { Sunday } from './weekdays/Sunday';
 import { Weekdays } from './weekdays/Weekdays';
 import './App.css';
 import { NotFound } from './weekdays/NotFound';
+import { Footer } from './Footer';
+import logo from './logo.png'
 
 
 function App() {
   return (
     <BrowserRouter>
-    <h1>Jak's fitness app</h1>
+      <div className="header">
+        <img className="logo" src={logo} alt="Jak's fitness app logo" height={100} />
+      </div>
+
         <Routes>
           <Route path='/' element={<Weekdays/>} />
           <Route path='/monday' element={<Monday/>} />
@@ -27,6 +32,8 @@ function App() {
           <Route path='/sunday' element={<Sunday/>} />
           <Route path="*" element={<NotFound/>}/>
         </Routes>
+
+        <Footer/>
     </BrowserRouter>
   );
 }
