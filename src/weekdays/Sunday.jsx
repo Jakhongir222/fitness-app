@@ -3,6 +3,7 @@ import React from 'react'
 export const Sunday = () => {
   return (
     <div>
+      <h2>Yoga Day</h2>
       <p>Rest and recovery are crucial for muscle growth and injury prevention, 
         so it's important to take at least one day off per week. Use this day to relax, 
         stretch, and do some light activities like walking or yoga.</p>

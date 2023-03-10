@@ -3,8 +3,9 @@ import React from 'react'
 export const Thursday = () => {
   return (
     <div>
-      <p>30 hour cardio</p>
-      <p>Back and Biceps</p>
+      <h2>30 hour cardio</h2>
+      <h2>Back and Biceps</h2>
+      <h2>Cool-Down and Stretch</h2>
       <iframe 
         width="560" 
         height="315" 
