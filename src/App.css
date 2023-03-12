@@ -3,5 +3,5 @@ body {
 }
 
 .header {
-  background-color: #baedf6;
+  border-bottom: solid black;
 }
