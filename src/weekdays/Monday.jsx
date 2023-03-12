@@ -1,5 +1,6 @@
 import React from 'react'
 import { MondayCart } from './carts/MondayCart'
+import './Weekdays.css'
 
 export const Monday = () => {
   return (

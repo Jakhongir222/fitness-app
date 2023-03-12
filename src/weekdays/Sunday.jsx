@@ -1,4 +1,5 @@
 import React from 'react'
+import './Weekdays.css'
 
 export const Sunday = () => {
   return (
