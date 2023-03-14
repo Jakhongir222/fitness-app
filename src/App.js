@@ -12,13 +12,16 @@ import './App.css';
 import { NotFound } from './weekdays/NotFound';
 import { Footer } from './Footer';
 import logo from './logo.png'
+import { Link } from 'react-router-dom';
 
 
 function App() {
   return (
     <BrowserRouter>
       <div className="header">
+        <Link to= '/'>
         <img className="logo" src={logo} alt="Jak's fitness app logo" height={100} />
+        </Link>
       </div>
 
         <Routes>

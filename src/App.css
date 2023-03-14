@@ -29,6 +29,9 @@ a {
   display: block;
   margin: 1rem auto;
   animation: pulse 2s infinite;
+  animation-duration: 3s; /* pulse for 3 seconds */
+  animation-delay: 0s; /* start immediately */
+  animation-iteration-count: 1; /* only play once */
 }
 
 @keyframes pulse {
@@ -42,6 +45,7 @@ a {
     transform: scale(1);
   }
 }
+
 
 /* Navigation Styles */
 
