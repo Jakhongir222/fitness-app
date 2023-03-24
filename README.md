@@ -1,6 +1,8 @@
 # ShapeUp Fitness App
 
-Welcome to ShapeUp, a fitness app that helps you track your workout progress and stay on top of your fitness goals.
+Welcome to ShapeUp,
+
+Fitness app that helps you track your workout progress and stay on top of your fitness goals.
 
 ## Introduction
 
