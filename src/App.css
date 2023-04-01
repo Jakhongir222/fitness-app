@@ -73,24 +73,5 @@ nav a:hover {
 
 /* Footer Styles */
 
-footer {
-  background-color: #333;
-  color: #fff;
-  text-align: center;
-  padding: 1rem;
-}
 
-footer p {
-  margin: 0;
-}
-
-footer a {
-  color: #f5f5f5;
-  font-weight: bold;
-  transition: color 0.2s ease-out;
-}
-
-footer a:hover {
-  color: #fff;
-}
 
