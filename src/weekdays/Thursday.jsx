@@ -13,7 +13,7 @@ export const Thursday = () => {
       <iframe 
         width="560" 
         height="315" 
-        src="https://www.youtube.com/embed/b01Uapqwxvw" 
+        src="https://www.youtube.com/embed/4krsAmEeZX0" 
         title="Thursday Video"
         allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
         allowFullScreen

@@ -16,7 +16,7 @@ export const ThursdayCart = () => {
         <p> Dumbbell Bicep Curls (3 sets x 8-12 reps) </p>
         <img src='https://www.inspireusafoundation.org/wp-content/uploads/2022/04/dumbbell-hammer-curl.gif' alt='hammer curls'/>
         <p> Hammer Curls (3 sets x 8-12 reps) </p>
-        <img src='https://sporium.net/wp-content/uploads/2020/01/pulldown-min.gif' alt='Bicep curls'/>
+        <img src='https://fitnessprogramer.com/wp-content/uploads/2021/02/cable-curl.gif' alt='Bicep curls'/>
         <p> Cable Bicep Curls (3 sets x 8-12 reps) </p>
     </div>
   )

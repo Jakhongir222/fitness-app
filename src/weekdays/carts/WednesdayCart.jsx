@@ -12,7 +12,7 @@ export const WednesdayCart = () => {
         <img src='https://i.pinimg.com/originals/f3/56/f9/f356f9c7af3c3f0c5d75fa1ec92c2ad2.gif' alt='Cable Crunch' />
         <p> Kneeling Cable Crunch (3 sets x 8-12 reps) </p>
         <h3> Sides and back </h3>
-        <img src='https://i.pinimg.com/originals/f3/56/f9/f356f9c7af3c3f0c5d75fa1ec92c2ad2.gif' alt='Shoulder Press'/>
+        <img src='https://fitnessprogramer.com/wp-content/uploads/2021/02/Dumbbell-Shoulder-Press.gif' alt='Shoulder Press'/>
         <p> Dumbbell Shoulder Press (9 sets, for back and 2 sides x 8-12 reps)</p>
         <img src='https://www.inspireusafoundation.org/wp-content/uploads/2022/10/dumbbell-reverse-fly.gif' alt='Lat flies'/>
         <p> Dumbell flies (3 sets x 8-12 reps) </p>
