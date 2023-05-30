@@ -4,7 +4,7 @@ import './Cart.css'
 export const WednesdayCart = () => {
   return (
     <div className="workout-card">
-        <h3> Abs and core </h3>
+        <h3> Abs and back </h3>
         <img src='https://fitnessprogramer.com/wp-content/uploads/2021/05/Captains-Chair-Leg-Raise.gif' alt=' leg raises' />
         <p> Captain's chair leg raises (3 sets x 8-12 reps)</p>
         <img src='https://fitnessprogramer.com/wp-content/uploads/2022/07/Full-Crunch-Machine.gif' alt='Full Crunch'/>
